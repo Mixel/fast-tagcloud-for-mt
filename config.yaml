@@ -1,0 +1,24 @@
+name: Fast Tag Cloud Plugin for MTOS
+id: FastTagCloud
+author_link: http://mixelandia.com/
+author_name: Mixel Adm
+description: A really fast tag cloud for MTOS.
+version: 1.0.0
+plugin_link: http://mixelandia.com/plugins/FastTagCloud
+
+tags:
+  function:   
+        FTCName:  $FastTagCloud::FastTagCloud::Plugin::ftc_name
+        FTCRank:  $FastTagCloud::FastTagCloud::Plugin::ftc_rank
+        FTCCount: $FastTagCloud::FastTagCloud::Plugin::ftc_count
+        FTCLink:  $FastTagCloud::FastTagCloud::Plugin::ftc_link
+  block:
+        FTC:      $FastTagCloud::FastTagCloud::Plugin::ftc_tagcloud
+
+
+
+
+
+
+
+
